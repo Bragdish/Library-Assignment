@@ -14,7 +14,6 @@
 CREATE DATABASE IF NOT EXISTS `library_project` /*!40100 DEFAULT CHARACTER SET utf8 */;
 USE `library_project`;
 
-
 -- Dumping structure for table library_project.book
 CREATE TABLE IF NOT EXISTS `book` (
   `book_id` varchar(15) NOT NULL DEFAULT '',
